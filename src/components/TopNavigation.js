@@ -1,6 +1,6 @@
-    import React from 'react'
-    import './index.css';
-import logo from './images/logo.png'
+import React from 'react'
+import '../assets/css/index.css';
+import logo from '../assets/images/logo.png'
 import { faCloud, faCog, faEye, faHome, faPencilAlt } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
@@ -10,7 +10,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
             <div>
                 <div className="mainheader">
                     <div className="right">
-                        <img className="logo" src={logo} />
+                        <img className="logo" src={logo} alt="Logo" />
                         <div className="text">
                             <h2>Untitled  {'\u00A0'}<FontAwesomeIcon size="xs" color="#fff" icon={faPencilAlt} /></h2>
                             <h3>Captain Anonymous</h3>

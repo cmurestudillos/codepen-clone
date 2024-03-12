@@ -3,7 +3,6 @@
 </p>
 
 # Code editor - React.js
-
 Clon de la famosa herramienta CodePen para probar y mostrar fragmentos de código HTML, CSS y JavaScript creados por el usuario. Funciona como un editor de código en línea y un entorno de aprendizaje de código abierto, los desarrolladores pueden crear fragmentos de código y probarlo.
 
 ## Herramientas
